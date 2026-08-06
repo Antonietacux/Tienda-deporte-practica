@@ -4,4 +4,4 @@
 * tenis
 * playera
 * Playera polo
-* gorras
+* gorras.
